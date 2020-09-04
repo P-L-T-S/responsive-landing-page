@@ -4,6 +4,10 @@
 
 ---
 
+![](images/apresentação-2.png)
+
+---
+
 <br>
 
 ## :notebook_with_decorative_cover: **Sobre:**
